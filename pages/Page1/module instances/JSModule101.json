@@ -1,0 +1,81 @@
+{
+  "gitSyncId": "fd46702b-bcd0-4881-b1cd-82dcd36b8cda_ad9ecbc5-27f6-46db-8950-976af6dd9e90",
+  "id": "Page1_JSModule101",
+  "moduleUUID": "7d2b775c-f059-438f-83e5-15e7259d92de",
+  "packageUUID": "cf27e31e-9805-4380-8bb9-3c8fdf4bde37",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "addNumbers": "[]",
+      "containsWord": "[]",
+      "fetchData": "[]",
+      "filterEvenNumbers": "[]",
+      "getGreeting": "[]",
+      "logMessage": "[]",
+      "reverseString": "[]",
+      "setTimeoutExample": "[]"
+    },
+    "moduleInputs": {
+      "girvdeufxx": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "girvdeufxx",
+        "label": "addNumbers",
+        "propertyName": "inputs.addNumbers"
+      },
+      "hrzzbhzcyj": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "hrzzbhzcyj",
+        "label": "filterEvenNumbers",
+        "propertyName": "inputs.filterEvenNumbers"
+      },
+      "leeixnuaev": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "leeixnuaev",
+        "label": "fetchData",
+        "propertyName": "inputs.fetchData"
+      },
+      "lnqkzfzwjt": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "lnqkzfzwjt",
+        "label": "getGreeting",
+        "propertyName": "inputs.getGreeting"
+      },
+      "mcqevdutci": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "mcqevdutci",
+        "label": "containsWord",
+        "propertyName": "inputs.containsWord"
+      },
+      "oscufjpgob": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "oscufjpgob",
+        "label": "reverseString",
+        "propertyName": "inputs.reverseString"
+      },
+      "rdyabxmbmf": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "rdyabxmbmf",
+        "label": "setTimeoutExample",
+        "propertyName": "inputs.setTimeoutExample"
+      },
+      "shqomxmzoj": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "shqomxmzoj",
+        "label": "logMessage",
+        "propertyName": "inputs.logMessage"
+      }
+    },
+    "name": "JSModule101",
+    "pageId": "Page1",
+    "version": "0.0.2"
+  }
+}

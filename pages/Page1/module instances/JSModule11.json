@@ -1,0 +1,81 @@
+{
+  "gitSyncId": "fd46702b-bcd0-4881-b1cd-82dcd36b8cda_2065f5d0-1e53-4c99-ad4b-d9b9ca67584a",
+  "id": "Page1_JSModule11",
+  "moduleUUID": "212aff34-aea0-49a1-a9b7-702a7fc95f9b",
+  "packageUUID": "cf27e31e-9805-4380-8bb9-3c8fdf4bde37",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "addNumbers": "[]",
+      "containsWord": "[]",
+      "fetchData": "[]",
+      "filterEvenNumbers": "[]",
+      "getGreeting": "[]",
+      "logMessage": "[]",
+      "reverseString": "[]",
+      "setTimeoutExample": "[]"
+    },
+    "moduleInputs": {
+      "eyxbixopju": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "eyxbixopju",
+        "label": "filterEvenNumbers",
+        "propertyName": "inputs.filterEvenNumbers"
+      },
+      "jqmbhrrvxx": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "jqmbhrrvxx",
+        "label": "fetchData",
+        "propertyName": "inputs.fetchData"
+      },
+      "levaaexjch": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "levaaexjch",
+        "label": "containsWord",
+        "propertyName": "inputs.containsWord"
+      },
+      "qvrulcvcis": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "qvrulcvcis",
+        "label": "addNumbers",
+        "propertyName": "inputs.addNumbers"
+      },
+      "sbdymmowhp": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "sbdymmowhp",
+        "label": "setTimeoutExample",
+        "propertyName": "inputs.setTimeoutExample"
+      },
+      "szuuoefxbn": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "szuuoefxbn",
+        "label": "getGreeting",
+        "propertyName": "inputs.getGreeting"
+      },
+      "tmwtkmuviv": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "tmwtkmuviv",
+        "label": "logMessage",
+        "propertyName": "inputs.logMessage"
+      },
+      "xjojlytvnr": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "xjojlytvnr",
+        "label": "reverseString",
+        "propertyName": "inputs.reverseString"
+      }
+    },
+    "name": "JSModule11",
+    "pageId": "Page1",
+    "version": "0.0.2"
+  }
+}

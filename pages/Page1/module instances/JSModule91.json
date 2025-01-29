@@ -1,0 +1,81 @@
+{
+  "gitSyncId": "fd46702b-bcd0-4881-b1cd-82dcd36b8cda_d9306c7e-a7ee-44b9-888e-4776a7549563",
+  "id": "Page1_JSModule91",
+  "moduleUUID": "f6aa4cff-9596-4956-8bed-4ea3fa3dc2eb",
+  "packageUUID": "cf27e31e-9805-4380-8bb9-3c8fdf4bde37",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "addNumbers": "[]",
+      "containsWord": "[]",
+      "fetchData": "[]",
+      "filterEvenNumbers": "[]",
+      "getGreeting": "[]",
+      "logMessage": "[]",
+      "reverseString": "[]",
+      "setTimeoutExample": "[]"
+    },
+    "moduleInputs": {
+      "dtqftunwmw": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "dtqftunwmw",
+        "label": "logMessage",
+        "propertyName": "inputs.logMessage"
+      },
+      "ejcsxeztax": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "ejcsxeztax",
+        "label": "addNumbers",
+        "propertyName": "inputs.addNumbers"
+      },
+      "inytollafv": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "inytollafv",
+        "label": "setTimeoutExample",
+        "propertyName": "inputs.setTimeoutExample"
+      },
+      "jzncbraxzb": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "jzncbraxzb",
+        "label": "fetchData",
+        "propertyName": "inputs.fetchData"
+      },
+      "ojbskesrpz": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "ojbskesrpz",
+        "label": "containsWord",
+        "propertyName": "inputs.containsWord"
+      },
+      "omnopmdvff": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "omnopmdvff",
+        "label": "getGreeting",
+        "propertyName": "inputs.getGreeting"
+      },
+      "qlaffhfzza": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "qlaffhfzza",
+        "label": "reverseString",
+        "propertyName": "inputs.reverseString"
+      },
+      "zuhviljbdx": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "zuhviljbdx",
+        "label": "filterEvenNumbers",
+        "propertyName": "inputs.filterEvenNumbers"
+      }
+    },
+    "name": "JSModule91",
+    "pageId": "Page1",
+    "version": "0.0.2"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "gitSyncId": "fd46702b-bcd0-4881-b1cd-82dcd36b8cda_dcf5e2ef-d624-4214-b6b2-a7a373c011be",
+  "id": "Page1_JSModule21",
+  "moduleUUID": "83efc740-4700-4fc1-97d1-a8c67ec05b67",
+  "packageUUID": "cf27e31e-9805-4380-8bb9-3c8fdf4bde37",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "addNumbers": "[]",
+      "containsWord": "[]",
+      "fetchData": "[]",
+      "filterEvenNumbers": "[]",
+      "getGreeting": "[]",
+      "logMessage": "[]",
+      "reverseString": "[]",
+      "setTimeoutExample": "[]"
+    },
+    "moduleInputs": {
+      "blrbjhygyx": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "blrbjhygyx",
+        "label": "filterEvenNumbers",
+        "propertyName": "inputs.filterEvenNumbers"
+      },
+      "btivluqfaj": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "btivluqfaj",
+        "label": "addNumbers",
+        "propertyName": "inputs.addNumbers"
+      },
+      "ctgjvdcppr": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "ctgjvdcppr",
+        "label": "setTimeoutExample",
+        "propertyName": "inputs.setTimeoutExample"
+      },
+      "hydbnmddem": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "hydbnmddem",
+        "label": "fetchData",
+        "propertyName": "inputs.fetchData"
+      },
+      "ieowvidevl": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "ieowvidevl",
+        "label": "logMessage",
+        "propertyName": "inputs.logMessage"
+      },
+      "iswrccrptw": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "iswrccrptw",
+        "label": "containsWord",
+        "propertyName": "inputs.containsWord"
+      },
+      "sianvpdmoy": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "sianvpdmoy",
+        "label": "getGreeting",
+        "propertyName": "inputs.getGreeting"
+      },
+      "zuibaqmzhu": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "zuibaqmzhu",
+        "label": "reverseString",
+        "propertyName": "inputs.reverseString"
+      }
+    },
+    "name": "JSModule21",
+    "pageId": "Page1",
+    "version": "0.0.2"
+  }
+}
